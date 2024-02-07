@@ -16,4 +16,4 @@ Chapter 14: Improving Accessibility </br>
 Chapter 15: Adding Authentication </br>
 Chapter 16: Adding Metadata </br>
 
-## For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+# For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
