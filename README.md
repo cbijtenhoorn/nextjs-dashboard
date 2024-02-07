@@ -1,19 +1,19 @@
 ## Next.js App Router Course
-Chapter 1: Getting Started
-Chapter 2: CSS Styling
-Chapter 3: Optimizing Fonts and Images
-Chapter 4: Creating Layouts and Pages
-Chapter 5: Navigating Between Pages
-Chapter 6: Setting Up Your Database
-Chapter 7: Fetching Data
-Chapter 8: Static and Dynamis Rendering
-Chapter 9: Streaming
-Chapter 10: Partial Prerendering
-Chapter 11: Adding Search and Pagination
-Chapter 12: Mutating Data
-Chapter 13: Handling Errors
-Chapter 14: Improving Accessibility
-Chapter 15: Adding Authentication
-Chapter 16: Adding Metadata
+Chapter 1: Getting Started </br>
+Chapter 2: CSS Styling </br>
+Chapter 3: Optimizing Fonts and Images </br>
+Chapter 4: Creating Layouts and Pages </br>
+Chapter 5: Navigating Between Pages </br>
+Chapter 6: Setting Up Your Database </br>
+Chapter 7: Fetching Data </br>
+Chapter 8: Static and Dynamis Rendering </br>
+Chapter 9: Streaming </br>
+Chapter 10: Partial Prerendering </br>
+Chapter 11: Adding Search and Pagination </br>
+Chapter 12: Mutating Data </br>
+Chapter 13: Handling Errors </br>
+Chapter 14: Improving Accessibility </br>
+Chapter 15: Adding Authentication </br>
+Chapter 16: Adding Metadata </br>
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
